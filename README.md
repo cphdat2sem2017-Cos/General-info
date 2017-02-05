@@ -6,8 +6,8 @@
 ##Weekly topics with repos
 Week no | Topic
 ---|---
-01 | [Operating Systems and Cloud solution](https://github.com/cphdat2sem2017-Cos/Week1-Operating-systems)
-02 | [Database](https://github.com/cphdat2sem2017-Cos/Week2-Database)
+01 | [OS-Linux](https://github.com/cphdat2sem2017-Cos/week01-OS-Linux)
+02 | [Database](https://github.com/cphdat2sem2017-Cos/week02-Databases)
 03 | Frontend development part 1
 04 | Frontend part 2
 05 | Algorithms
